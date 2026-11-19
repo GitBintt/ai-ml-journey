@@ -38,6 +38,4 @@ AI-ML-Journey/
 └── README.md
 ```
 
----
 
-*Learning, experimenting, and building step by step.*
